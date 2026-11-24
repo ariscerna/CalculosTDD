@@ -23,9 +23,6 @@ public class Calculos {
         return suma;
     }
     /**
-    * hola
-    * 
-    /**
      * *
      * Calcula el valor absoluto de un numero
      *

@@ -22,7 +22,10 @@ public class Calculos {
         }
         return suma;
     }
+<<<<<<< HEAD
     
+=======
+>>>>>>> cf98a7922788ff60406d13eee770fcf1b8232119
     /**
      * *
      * Calcula el valor absoluto de un numero holaaa

@@ -22,12 +22,10 @@ public class Calculos {
         }
         return suma;
     }
-    /**
-    * hola
-    * 
+    
     /**
      * *
-     * Calcula el valor absoluto de un numero
+     * Calcula el valor absoluto de un numero holaaa
      *
      * @param num
      * @return valor absoluto
